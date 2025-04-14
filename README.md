@@ -87,13 +87,6 @@
 
 ---
 
-## Contributeurs
-- **Lucien LACHARMOISE**
-- **Clément ASENSIO**
-- **Emma COCO**
-
----
-
 ## Notes de développement
 - **Utiliser Python 3.9+**
 - **Django 4.2+**
