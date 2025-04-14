@@ -100,6 +100,10 @@
 
 ## Études menées lors de l'analyse des données MIT-BIH et de l'entrainement des réseaux de neurones
 
+[Projet Doctolib - Rapport.pdf](https://github.com/user-attachments/files/19738093/Projet.Doctolib.-.Rapport.pdf)
+
+[Projet.Doctolib.-.Rapport.pdf](https://github.com/user-attachments/files/19738100/Projet.Doctolib.-.Rapport.pdf)
+
 
 ## Présentation orale
 
